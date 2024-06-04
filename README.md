@@ -1,6 +1,6 @@
 <div align="center">
   <!--<img src="./typing.svg" alt="Typing SVG" />-->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Calendar"/>
+  <img src="./nRanzo_3d_contrib/profile-night-rainbow.svg" alt="Contribution Calendar"/>
 
   <br />
   <br />
