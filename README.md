@@ -7,6 +7,6 @@
   <br />
 
   <h3> Support me by starring ⭐ some of my repositories </h3>
-  <img src="./thanks.gif" width=200 height=200 />
+  <img src="./thanks1.gif" width=200 height=200 />
   <h3> Thank you! </h3>
 </div>
