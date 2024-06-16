@@ -19,7 +19,9 @@
 
   <br />
   
-  <img src="./thanks1.gif" width=auto height=auto />
+  <img src="./qcksort.gif" width=auto height=auto />
+
+  <h3> (you can see my pattern defeating quicksort up here) </h3>
   
   <br />
   
