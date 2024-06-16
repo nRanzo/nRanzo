@@ -4,6 +4,7 @@
   <br />
   
   <h3> Welcome to my page! Hope you like it ^_^ </h3>
+    <h3> Please note that the following animation is NOT already synchronized to my profile's activity log! </h3>
   
   <br />
   
