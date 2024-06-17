@@ -19,9 +19,9 @@
 
   <br />
   
-  <img src="./qcksort.gif" width=auto height=auto />
+  <img src="./pattern-defeating-quicksort/qcksort.gif" width=auto height=auto />
 
-  <h3> (you can see my pattern defeating quicksort up here) </h3>
+  <h3> (you will see <a href="https://github.com/nRanzo/pattern-defeating-quicksort">my pattern defeating quicksort</a> up here) </h3>
   
   <br />
   
