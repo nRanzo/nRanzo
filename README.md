@@ -25,12 +25,8 @@ I am a developer currently undergraduate with a passion for developing software 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nRanzo&hide_progress=false&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
         
   <br />
-  <br />
-
   <h3> You can support me by starring some of my repositories! </h3>
 
-  <br />
-  
   <img src="./pattern-defeating-quicksort/qcksort.gif" width=auto height=auto />
 
   <h3> (you will see <a href="https://github.com/nRanzo/pattern-defeating-quicksort">my pattern defeating quicksort</a> up here) </h3>
