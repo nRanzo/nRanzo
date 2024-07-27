@@ -1,24 +1,23 @@
 <div align="justify">
   <br />
   
-  <h3> Welcome to my page! Hope you like it ^_^ </h3>
-    <br />
+## Welcome to my page! Hope you like it ^_^
 
 You may also be interested in checking <a href="https://community.openai.com/u/nranzo/summary">my openai personal page</a>.   
   <br />
 
-## About Me
+## About Me 
 
 I am a developer currently undergraduate with a passion for developing software tools and web services. I first discovered my interest in code during my high school years, but it was only in 2019 when I decided to pursue it seriously. If you wish to learn more about me you can consult my [portfolio](personallink).
 
   <br />
 
-## Tools
+## Tools I often use
 <img src="https://skillicons.dev/icons?i=javascript,html,mysql"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github,git,c,flask,python,java"/>
 
   <br />
 
-## GitHub Stats
+## My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nRanzo&show_icons=true&theme=tokyonight&hide_progress=true)
 
@@ -33,5 +32,5 @@ I am a developer currently undergraduate with a passion for developing software 
   
   <br />
   
-  <h3> Thank you! </h3>
+## Thank you!
 </div>
