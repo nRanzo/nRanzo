@@ -22,14 +22,8 @@ I am a developer currently undergraduate with a passion for developing software 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nRanzo&show_icons=true&theme=dark&hide_progress=true)
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nRanzo&hide_progress=true&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-        <h3> Please note that the following animation is NOT already synchronized to my profile's activity log! </h3>
-
-  <br />
-  
-  <img src="./nRanzo_3d_contrib/profile-night-rainbow.svg" alt="Contribution Calendar"/>
-
-  <br />
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nRanzo&hide_progress=false&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+        
   <br />
   <br />
 
