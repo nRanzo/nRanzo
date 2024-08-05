@@ -18,12 +18,12 @@
 - 📈 I’m currently working on Fullstack Development, Web Services and chatbots.
 - 👥 I’m looking forward to collaborate with Fullstack Developers.
 - 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to.
-- ⚡ I'm an Active member of the <a href="retrogamedia.net"> Retrogamedia organization</a>.
+- ⚡ I'm an Active member of the <a href="http://retrogamedia.net"> Retrogamedia organization</a>.
 <br>
 
 <h3>My best three projects so far</h3>
 
-- 🥇 Nicola's Ramen, an improved version of Jessie's Ramen Shop.
+- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a>.
 - 🥈 Levi's chat home, a place where you can have a new and kinda strange conversation.
 - 🥉 OS Knowledge tester, a free and open source website where you can test your knowledge in Operating Systems.
 <br>
