@@ -23,7 +23,7 @@
 
 <h3>My best three projects so far</h3>
 
-- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a>.
+- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a>, still in development.
 - 🥈 Levi's chat home, a place where you can have a new and kinda strange conversation.
 - 🥉 OS Knowledge tester, a free and open source website where you can test your knowledge in Operating Systems.
 <br>
