@@ -6,10 +6,8 @@
 
 <p align="center">
   <em>
-    Nice to meet you, I'm <b>Nicola Ranzolin</b>, a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy.
-    An aspiring <b>Full-Stack Visionary</b>&nbsp; <b>User Experience Architect</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    Nice to meet you, I'm <b>Nicola Ranzolin</b>, a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy. 
   <br>
-  <b><i>--- Set Your Heart Ablaze ---</i></b>
 </p>
 <br>
 
@@ -17,18 +15,18 @@
 
 - 📚 I'm a Tech Enthusiast since childhood.
 - 📈 I’m currently working on Fullstack Development, Web Services and chatbots.
-- 👥 I’m looking forward to collaborate with Fullstack Developers.
+- 👥 I’m looking forward to collaborate with System Design Specialist.
 - 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to.
-- ⚡ I'm an Active member of the <a href="http://retrogamedia.net"> Retrogamedia organization</a>.
+- ⚡ I'm an Active member of <a href="http://retrogamedia.net"> Retrogamedia</a>.
 <br>
 
 <h3>My best three projects so far</h3>
 
-- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a>, still in development.
+- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a> [IT].
 - 🥈 Levi's chat home, a place where you can have a new and kinda strange conversation.
 - 🥉 OS Knowledge tester, a free and open source website where you can test your knowledge in Operating Systems.
 <br>
-These projects will be soon free to use!
+These projects will be soon public and free to use!
 <br>
 
 ---
@@ -105,7 +103,7 @@ These projects will be soon free to use!
    <a href="https://community.openai.com/u/nranzo/summary">
     <img align="left" alt="Nicola Ranzolin | OpenAI" width="26px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" />
   </a>
-  <a href="https://portfoliobyom.netlify.app/">
+  <a href="https://nicolaranzolin.vercel.app/">
     <img align="left" alt="Nicola Ranzolin | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
   <br>
