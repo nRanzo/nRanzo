@@ -6,27 +6,24 @@
 
 <p align="center">
   <em>
-    Nice to meet you, I'm <b>Nicola Ranzolin</b>, a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy. 
+    Nice to meet you, I'm <b>Nicola Ranzolin</b>, Co-head & Full-stack developer of <a href="http://retrogamedia.net">Retrogamedia</a>.<br> I'm also a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy. 
   <br>
 </p>
 <br>
 
 <h3>Little facts about me 🥷</h3>
 
-- 📚 I'm a Tech Enthusiast since childhood.
-- 📈 I’m currently working on Fullstack Development, Web Services and chatbots.
-- 👥 I’m looking forward to collaborate with System Design Specialist.
-- 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to.
-- ⚡ I'm an Active member of <a href="http://retrogamedia.net"> Retrogamedia</a>.
-<br>
+- 📚 I've been working on Fullstack Development of both web services and chatbots for years
+- 👥 I’m looking forward to collaborate with Data Scientists
+- 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to
 
 <h3>My best three projects so far</h3>
 
-- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a> [IT].
-- 🥈 Levi's chat home, a place where you can have a new and kinda strange conversation.
-- 🥉 OS Knowledge tester, a free and open source website where you can test your knowledge in Operating Systems.
+- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a> [IT]
+- 🥈 SHIMEJI chat, a daily helper chatbot capable of running several apps on background during its usage
+- 🥉 Retrogamedia website, built from zero
 <br>
-These projects will be soon public and free to use!
+SHIMEJI chat is coming free trial for everyone, by 2025, on macOS platform.
 <br>
 
 ---
@@ -88,17 +85,11 @@ These projects will be soon public and free to use!
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/exampleuser/">
+  <a href="https://www.linkedin.com/in/nicola-ranzolin-821700337/">
    <img align="left" alt="Nicola Ranzolin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:nic.ranzolin@gmail.com">
-    <img align="left" alt="Nicola Ranzolin | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.instagram.com/nicola_ranzolin/">
     <img align="left" alt="Nicola Ranzolin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/nRanzo">
-    <img align="left" alt="Nicola Ranzolin | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
    <a href="https://community.openai.com/u/nranzo/summary">
     <img align="left" alt="Nicola Ranzolin | OpenAI" width="26px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" />
