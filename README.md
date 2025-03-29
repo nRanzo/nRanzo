@@ -6,25 +6,19 @@
 
 <p align="center">
   <em>
-    Nice to meet you, I'm <b>Nicola Ranzolin</b>, Co-head & Full-stack developer of <a href="http://retrogamedia.net">Retrogamedia</a>.<br> I'm also a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy. 
+    Nice to meet you, I'm <b>Nicola Ranzolin</b>, CTO & Full-stack developer of <a href="http://shimeji.vercel.app">Shimeji Software</a>.<br> I'm also a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy. 
   <br>
 </p>
 <br>
 
-<h3>Little facts about me 🥷</h3>
+<h3>About me 🥷</h3>
 
 - 📚 I've been working on Fullstack Development of both web services and chatbots for years
-- 👥 I’m looking forward to collaborate with Data Scientists
+- 👥 I’m looking forward to collaborate with AI Specialists
 - 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to
 
-<h3>My best three projects so far</h3>
-
-- 🥇 Nicola's Portfolio, my <a href="https://nicolaranzolin.vercel.app">official website</a> [IT]
-- 🥈 SHIMEJI chat, a daily helper chatbot capable of running several apps on background during its usage
-- 🥉 Retrogamedia website, built from zero
-<br>
-SHIMEJI chat is coming free trial for everyone, by 2025, on macOS platform.
-<br>
+<h3>Visit my <a href="https://nicolaranzolin.vercel.app">official website</a></h3>
+<h3>See <a href="https://shimeji.vercel.app">the project I'm builing</a></h3>
 
 ---
 
@@ -39,8 +33,6 @@ SHIMEJI chat is coming free trial for everyone, by 2025, on macOS platform.
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
@@ -52,6 +44,8 @@ SHIMEJI chat is coming free trial for everyone, by 2025, on macOS platform.
   🌱 Looking forward to learn:
 </summary>
    <br>
+<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
