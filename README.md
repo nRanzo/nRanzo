@@ -1,24 +1,23 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nicola!</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engeneer+Undergraduate;UI+/+Chatbot+Maker;Front-End+Alchemist;Aspiring+Learner&center=true&width=500&height=50"></a>
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Visionary;User+Experience+Architect;Digital+Product+Innovator;Apple+Ecosystem+Specialist;Scalable+System+Architect;Data-Driven+Engineer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Chatbot+Maker;Backend+Alchemist;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Visionary;User+Experience+Architect;Digital+Product+Innovator;Scalable+System+Architect;Data-Driven+Engineer&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    Nice to meet you, I'm <b>Nicola Ranzolin</b>, CTO & Full-stack developer of <a href="http://shimeji.vercel.app">Shimeji Software</a>.<br> I'm also a final year <b>IT Engeneer</b> undergraduate from <b>University of Padua</b>, Italy. 
+    Nice to meet you, I'm <b>Nicola Ranzolin</b>, currently building <a href="http://shimeji.vercel.app">Shimeji Software</a>.<br> I'm also a <b>IT Engeneer</b> coming from from <b>University of Padua</b>, Italy. I am still focused on learning Computer Engineering
   <br>
 </p>
 <br>
 
 <h3>About me 🥷</h3>
 
-- 📚 I've been working on Fullstack Development of both web services and chatbots for years
-- 👥 I’m looking forward to collaborate with AI Specialists
+- 📚 I've been working on Fullstack Development of web services, chatbots and robots for years
+- 👥 I’m looking forward to collaborate with ambitious teams
 - 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to
 
-<h3>Visit my <a href="https://nicolaranzolin.vercel.app">official website</a></h3>
-<h3>See <a href="https://shimeji.vercel.app">the project I'm builing</a></h3>
+<h3>See <a href="https://shimeji.vercel.app/armrobot">the project I've just built and documented</a></h3>
 
 ---
 
@@ -85,15 +84,6 @@
   <a href="https://www.instagram.com/nicola_ranzolin/">
     <img align="left" alt="Nicola Ranzolin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://community.openai.com/u/nranzo/summary">
-    <img align="left" alt="Nicola Ranzolin | OpenAI" width="26px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" />
-  </a>
-  <a href="https://nicolaranzolin.vercel.app/">
-    <img align="left" alt="Nicola Ranzolin | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-  </a>
   <br>
-
-<h3> Wanna support? You can support me by starring some of my repositories! </h3>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/nRanzo">Nicola Ranzolin</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=nRanzo&label=Profile%20views&color=0e75b6&style=flat" alt="nRanzo" /> </p>
