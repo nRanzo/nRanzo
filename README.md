@@ -11,6 +11,8 @@
 </p>
 <br>
 
+![snake gif](https://github.com/nRanzo/nRanzo/blob/output/github-snake-dark.svg)
+
 <h3>About me 🥷</h3>
 
 - 📚 I've been working on Fullstack Development of web services, chatbots and robots for years
