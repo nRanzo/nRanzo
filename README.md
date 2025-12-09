@@ -19,7 +19,7 @@
 - 👥 I’m looking forward to collaborate with ambitious teams
 - 🏋️ My goal is to achieve excellent results in the projects I dedicate my efforts to
 
-<h3>See <a href="https://shimeji.vercel.app/">the project I've just built and documented</a></h3>
+<h3>See <a href="https://shimeji.vercel.app/">the projects I've built and documented</a></h3>
 
 ---
 
