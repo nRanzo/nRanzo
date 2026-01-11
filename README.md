@@ -110,19 +110,6 @@ I am a results-oriented Full-Stack Engineer with a focus on building scalable we
   </tr>
 </table>
 
-<details>
-<summary><b>🚀 Expanding Expertise (Roadmap)</b></summary>
-<br>
-<p align="left">
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="GCP" /></a>&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" alt="AWS" /></a>&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="TensorFlow" /></a>&nbsp;
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="Flutter" /></a>&nbsp;
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30" alt="Redux" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind" /></a>
-</p>
-</details>
-
 ---
 
 <h3>📈 GitHub Analytics</h3>
