@@ -15,13 +15,12 @@
 
 <br>
 
-<h3>👨‍💻 Professional Summary</h3>
+<h3>Professional Summary</h3>
 
-I am a results-oriented Full-Stack Engineer with a focus on building scalable web services, chatbots, and robotic systems. My passion lies in architecting user-centric digital products and optimizing backend performance. I am currently open to collaborating with ambitious teams to deliver high-impact technical solutions.
+I am a Computer Engineer with a focus on building scalable reliable services and robotic systems. My passion lies in architecting efficiency-centric products and optimizing backend performance. I am currently open to collaborating with ambitious teams to deliver high-impact technical solutions.
 
-- 🔭 **Current Focus:** Building robust architectures at <a href="https://shimeji.vercel.app/">Shimeji Software</a>.
-- 🤝 **Collaboration:** Seeking opportunities to architect scalable systems with forward-thinking teams.
-- 🎯 **Objective:** Delivering engineering excellence and user-focused experiences.
+- **Current Focus:** Robot experiments made at <a href="https://shimeji.vercel.app/">Shimeji Software</a>. Building a Robot for Nautilus team @UniPd
+- 🤝 **Collaboration:** Seeking opportunities to architect reliable systems with forward-thinking teams.
 
 <p align="center">
   👉 <b><a href="https://shimeji.vercel.app/">View My Project Portfolio & Documentation</a></b>
@@ -29,7 +28,7 @@ I am a results-oriented Full-Stack Engineer with a focus on building scalable we
 
 ---
 
-<h3>🛠 Tech Stack & Tools</h3>
+<h3> Tech Stack & Tools</h3>
 
 <table align="center">
   <tr>
@@ -112,14 +111,11 @@ I am a results-oriented Full-Stack Engineer with a focus on building scalable we
 
 ---
 
-<h3>📈 GitHub Analytics</h3>
+<h3>GitHub Analytics</h3>
 
 <p align="center">
   <a href="https://github.com/nRanzo">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nRanzo&show_icons=true&theme=tokyonight&hide_progress=true&bg_color=00000000&hide_border=true"/>
-  </a>
-  <a href="https://github.com/nRanzo">
-    <img height="160px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nRanzo&hide_progress=false&langs_count=6&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
   </a>
 </p>
 
@@ -133,9 +129,6 @@ I am a results-oriented Full-Stack Engineer with a focus on building scalable we
   <b>Let's Connect</b><br>
   <a href="https://www.linkedin.com/in/nicola-ranzolin-821700337/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/nicola_ranzolin/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
