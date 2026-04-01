@@ -1,26 +1,13 @@
 <h1 align="center">Nicola Ranzolin</h1>
-<h3 align="center">Full-Stack Engineer & Digital Product Innovator</h3>
-
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Scalable+System+Architect;Data-Driven+Engineer;Building+Shimeji+Software&center=true&width=500&height=50&color=2F80ED">
-  </a>
-</p>
-
-<p align="center">
-  Based in <b>Padua, Italy</b> | <b>Computer Engineering</b> Alumnus, University of Padua
-  <br>
-  Founder of <a href="http://shimeji.vercel.app"><b>Shimeji Software</b></a>
-</p>
+<h3 align="center">Computer Engineering</h3>
 
 <br>
 
-<h3>Professional Summary</h3>
+I am a Computer Engineer with a focus on building optimized services and robotic systems. My passion lies in architecting efficiency-centric products and optimizing backend performance. I am currently open to collaborating with ambitious teams to deliver high-impact technical solutions.
 
-I am a Computer Engineer with a focus on building scalable reliable services and robotic systems. My passion lies in architecting efficiency-centric products and optimizing backend performance. I am currently open to collaborating with ambitious teams to deliver high-impact technical solutions.
-
-- **Current Focus:** Robot experiments made at <a href="https://shimeji.vercel.app/">Shimeji Software</a>. Building a Robot for Nautilus team @UniPd
-- 🤝 **Collaboration:** Seeking opportunities to architect reliable systems with forward-thinking teams.
+- Robot experiments made at <a href="https://shimeji.vercel.app/">Shimeji Software</a>.
+- Building a Robot for Nautilus team @UniPd
+- Seeking opportunities to architect reliable systems with forward-thinking teams.
 
 <p align="center">
   👉 <b><a href="https://shimeji.vercel.app/">View My Project Portfolio & Documentation</a></b>
