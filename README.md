@@ -101,9 +101,9 @@ I am a Computer Engineer with a focus on building optimized services and robotic
 <h3>GitHub Analytics</h3>
 
 <p align="center">
-  <a href="https://github.com/nRanzo">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nRanzo&show_icons=true&theme=tokyonight&hide_progress=true&bg_color=00000000&hide_border=true"/>
-  </a>
+
+  <img height="200px" src="https://stats-steel-five.vercel.app/api?username=nRanzo&show_icons=true&theme=radical&hide_progress=true&&hide_border=true"/>
+
 </p>
 
 <p align="center">
