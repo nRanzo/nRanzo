@@ -1,17 +1,11 @@
 <h1 align="center">Nicola Ranzolin</h1>
-<h3 align="center">Computer Engineering</h3>
-
 <br>
 
-I am a Computer Engineer with a focus on building optimized services and robotic systems. My passion lies in architecting efficiency-centric products and optimizing backend performance. I am currently open to collaborating with ambitious teams to deliver high-impact technical solutions.
+I am a Computer Engineer focused on building high-performance software and robotic systems, with a strong interest in systems engineering, optimization, and reliable architectures.
 
-- Robot experiments made at <a href="https://shimeji.vercel.app/">Shimeji Software</a>.
-- Building a Robot for Nautilus team @UniPd
-- Seeking opportunities to architect reliable systems with forward-thinking teams.
-
-<p align="center">
-  👉 <b><a href="https://shimeji.vercel.app/">View My Project Portfolio & Documentation</a></b>
-</p>
+- Developing robotic systems with the Nautilus team @UniPD.
+- Built various robot experiments, simulations, hackathons.
+- Interested in challenging engineering problems and high-impact systems.
 
 ---
 
@@ -20,81 +14,69 @@ I am a Computer Engineer with a focus on building optimized services and robotic
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="48" height="48" alt="ROS 2" />
+      <br>ROS 2
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.w3.org/Style/CSS/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gazebo/default.svg" width="48" height="48" alt="Gazebo" />
+      <br>Gazebo
     </td>
     <td align="center" width="96">
-      <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-      </a>
+      <br><b>RViz</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>MoveIt 2</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>ros2_control</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>Nav2</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>URDF / Xacro</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
     </td>
   </tr>
 </table>
+
+
+
 
 ---
 
@@ -105,16 +87,16 @@ I am a Computer Engineer with a focus on building optimized services and robotic
   <img height="200px" src="https://stats-steel-five.vercel.app/api?username=nRanzo&show_icons=true&theme=radical&hide_progress=true&&hide_border=true"/>
 
 </p>
-
+<!--
 <p align="center">
   <img src="https://github.com/nRanzo/nRanzo/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </p>
+ -->
 
 ---
-
 <p align="center">
   <b>Let's Connect</b><br>
-  <a href="https://www.linkedin.com/in/nicola-ranzolin-821700337/">
+  <a href="https://www.linkedin.com/in/nranzolin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
