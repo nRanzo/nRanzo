@@ -1,11 +1,12 @@
 <h1 align="center">Nicola Ranzolin</h1>
 <br>
 
-I am a Computer Engineer focused on building high-performance software and robotic systems, with a strong interest in systems engineering, optimization, and reliable architectures.
+Computer Engineer focused on building high-performance software and robotic systems, with strong interests in computer vision, deep learning, optimization, and systems engineering.
 
-- Developing robotic systems with the Nautilus team @UniPD.
-- Built various robot experiments, simulations, hackathons.
-- Interested in challenging engineering problems and high-impact systems.
+Developing autonomous marine robotic systems with the Nautilus UniPD team.
+Built various robot experiments, simulations, and hackathon projects.
+
+Interested in challenging engineering problems, efficient architectures, and intelligent systems deployed in the real world.
 
 ---
 
